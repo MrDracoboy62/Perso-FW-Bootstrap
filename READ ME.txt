@@ -1,0 +1,2 @@
+Création d'un framework avec les classes de Bootstrap pendant une formation de Développeur web - Web Mobile qui a eu lieu à l'AFPA de Calais de juin à décembre 2022.
+Modification et personnalisation de son contenu et de sa structure pour l'adapter au thème "Astronomie".
